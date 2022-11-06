@@ -38,3 +38,7 @@ img {
 h2 {
     text-align: center;
 }
+
+section {
+    padding: 15px;
+}
