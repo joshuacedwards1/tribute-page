@@ -21,6 +21,7 @@ figure {
     margin: 0;
     padding: 15px;
     background-color: #ece9e4;
+    text-align: center;
 }
 
 img {
@@ -28,5 +29,5 @@ img {
     max-width: 100%;
     width: 690px;
     display: block;
-    margin: auto;
+    margin: 10px auto;
 }
