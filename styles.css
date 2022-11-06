@@ -22,3 +22,11 @@ figure {
     padding: 15px;
     background-color: #ece9e4;
 }
+
+img {
+    height: auto;
+    max-width: 100%;
+    width: 690px;
+    display: block;
+    margin: auto;
+}
