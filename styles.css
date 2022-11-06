@@ -5,21 +5,21 @@ body {
 }
 
 main {
-    margin: 20px 10px;
-    padding: 20px;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
     background-color: #7e7d7bd5;
-    border-radius: 8px;
 }
 
 h1 {
     text-align: center;
-    font-size: 52px;
+    font-size: 3.5rem;
     font-weight: 900;
 }
 
 p {
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 figure {
@@ -28,8 +28,8 @@ figure {
     background-color: #fafafa;
     color: #000;
     text-align: center;
-    border-radius: 6px;
-    font-size: 20px;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
 
@@ -38,24 +38,26 @@ img {
     max-width: 100%;
     width: 690px;
     display: block;
-    margin: 10px auto;
+    margin: 1rem auto;
 }
 
 h2 {
+    margin-top: 2.5rem;
     text-align: center;
+    font-size: 1.8rem;
 }
 
 section {
     display: block;
-    padding: 15px;
+    padding: 1rem;
 }
 
 ul {
-    margin: 15px auto;
+    margin: 2.5rem auto;
     max-width: 690px;
 }
 
 li {
-    line-height: 60px;
-    font-size: 20px;
+    line-height: 3rem;
+    font-size: 1.2rem;
 }
