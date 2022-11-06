@@ -13,10 +13,13 @@ main {
 
 h1 {
     text-align: center;
+    font-size: 52px;
+    font-weight: 900;
 }
 
 p {
     text-align: center;
+    font-size: 24px;
 }
 
 figure {
@@ -26,6 +29,8 @@ figure {
     color: #000;
     text-align: center;
     border-radius: 6px;
+    font-size: 20px;
+    font-weight: 600;
 }
 
 img {
