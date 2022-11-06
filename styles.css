@@ -6,7 +6,7 @@ body {
 main {
     margin: 20px 10px;
     padding: 20px;
-    background-color: #f0dcc5;
+    background-color: #f7d1a6;
 }
 
 h1 {
@@ -15,4 +15,10 @@ h1 {
 
 p {
     text-align: center;
+}
+
+figure {
+    margin: 0;
+    padding: 15px;
+    background-color: #ece9e4;
 }
