@@ -46,5 +46,11 @@ h2 {
 }
 
 section {
+    display: block;
     padding: 15px;
+}
+
+ul {
+    margin: 15px auto;
+    max-width: 690px;
 }
