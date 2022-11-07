@@ -26,6 +26,7 @@ p {
 
 figure {
     margin: 0 auto;
+    max-width: 98%;
     padding: 1rem;
     background-color: #fafafa;
     color: #000;
