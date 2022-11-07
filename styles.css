@@ -71,7 +71,7 @@ a {
 a:hover {
     color: #7fffd4;
     animation-name: color-fill;
-    animation-duration: 1s;
+    animation-duration: 0.8s;
     animation-fill-mode: forwards;
 }
 
