@@ -67,3 +67,18 @@ li {
 a {
     color: #dc143c;
 }
+
+a:hover {
+    animation-name: color-fill;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes color-fill {
+    0% {
+        color: crimson;
+    }
+    100% {
+        color: aquamarine;
+    }
+}
