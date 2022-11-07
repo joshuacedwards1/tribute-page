@@ -69,6 +69,7 @@ a {
 }
 
 a:hover {
+    color: aquamarine;
     animation-name: color-fill;
     animation-duration: 1s;
     animation-fill-mode: forwards;
