@@ -83,3 +83,7 @@ a:hover {
         color: #7fffd4;
     }
 }
+
+li:hover {
+    transform: scale(1.1);
+}
